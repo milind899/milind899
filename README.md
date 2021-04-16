@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @milind899
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning python 
+
 - 📫 instagram- https://www.instagram.com/milind.899/?hl=en
 
 <!---
